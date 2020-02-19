@@ -1,22 +1,12 @@
 CSE-472 Project 2: Evolution of Bots
 
-With the advent of internet there has been substantial increase in con-
-tent polluters and fake bots on various popular social media platforms like
-Twitter, Facebook and many others. Out of these, political bots majorly
-involve in intentionally automating interactions related to political issues
-and elections. Hence it becomes critical for such a platform to detect
-these bots and eliminate them when found. And with increased knowl-
-edge they have improved over the time to refrain from getting detected
-using traditional methods. Through this study we have (1) collected a
-subset of data-set comprising of accounts who were active on topics re-
-lated to 2016 US Presidential elections (2) used cluster analysis to identify
-dierent types of bots and their patterns (3) compared these results to
-that of Lee et al.[2] to understand intentions of these bots (4) presented
-an analysis on how these bots have evolved over time with knowledge.
+With the advent of internet there has been substantial increase in content polluters and fake bots on various popular social media platforms like Twitter, Facebook and many others. Out of these, political bots majorly involve in intentionally automating interactions related to political issues and elections. Hence it becomes critical for such a platform to detect
+these bots and eliminate them when found. And with increased knowledge they have improved over the time to refrain from getting detected using traditional methods. Through this study we have 
+(1) collected a subset of data-set comprising of accounts who were active on topics related to 2016 US Presidential elections (2) used cluster analysis to identify different types of bots and their patterns 
+(3) compared these results to that of Lee et al.[2] to understand intentions of these bots 
+(4) presented an analysis on how these bots have evolved over time with knowledge.
 
-Keywords fake bot detection, evolution of bots, cluster analysis, US election twit-
-ter data, social media mining, in
-uence of twitter bots on 2016 US election
+Keywords fake bot detection, evolution of bots, cluster analysis, US election twitter data, social media mining, influence of twitter bots on 2016 US election
 
 
 Running Instructions and Information:
